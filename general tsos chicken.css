@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(
+      to right,
+      rgb(234, 249, 250) 20% 40%,
+      rgb(247, 247, 217) 40% 60%,
+      rgb(209, 209, 221) 80%
+    );
+  } 
+#abc{
+  border: solid 1px rgb(154, 243, 154);
+  display:block;
+  width: 500px;
+  background-color: rgb(151, 204, 139);
+}  
