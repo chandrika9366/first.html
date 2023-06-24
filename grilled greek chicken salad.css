@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(200, 238, 253);
+}
+h1{
+    color: rgb(156, 98, 77);
+    text-align: center;
+}
+#abc{
+    color: rgb(5, 83, 5)
+}
+p{
+    text-align: center;
+    border: solid 1px;
+    display:block;
+    width: 500px;
+    background-color: rgb(187, 207, 113)
+    
+}
+.abc{
+    text-align: center;
+}
+h4{
+    color: rgb(79, 82, 245)
+}
