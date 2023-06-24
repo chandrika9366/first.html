@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(
+        to right,
+        rgb(243, 227, 232) 20% 40%,
+        rgb(238, 232, 237) 40% 60%,
+        rgb(23, 168, 204) 80%
+      );
+}
+h1{
+    color: rgb(9, 110, 9);
+    text-align: center;
+}
