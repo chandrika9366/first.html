@@ -1,0 +1,11 @@
+.xyz{
+    border: solid 1px white;
+    display: block;
+    width: 1000px;
+    height: 570px;
+    background-color: white;
+    text-align: center;
+    max-width: 1000px;
+    margin:auto;
+    margin-top: -50px;
+} 
