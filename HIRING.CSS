@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+    height: 600px;
+}
+.xyz{
+    margin-left: 400px;
+}
+.abc{
+    margin-top: -450px;
+    margin-left: 250px;
+}
+h2{
+    color: rgb(14, 13, 13);
+    font-size: 50px;
+}
+h5{
+    color: rgb(231, 64, 217);
+    font-size: 20px;
+    margin-top: -10px;
+}
+h1{
+    color: black;
+    font-size: -40px;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+ hr:before{
+    content: "";
+    width: 336px;
+    height: 20px;
+    margin-top: 57px;
+    margin-left: -390px;
+    display: block;
+    background:rgb(231, 64, 217) ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+ }
